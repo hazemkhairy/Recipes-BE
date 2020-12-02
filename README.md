@@ -6,8 +6,8 @@
 ## ToDo:
 - [X] Enable Adding Recipes (endpoint).
 - [X] View All Recipes (endpoint).
-- [ ] Save & Get Data from mongoDB.
-- [ ] Restructure The folders & files
+- [X] Save & Get Data from mongoDB.
+- [X] Restructure The folders & files
 - [ ] View Specific Recipe (endpoint).
 - [ ] Register&Login Accounts (endpoint(s)).
 - [ ] Rate Recipe.
