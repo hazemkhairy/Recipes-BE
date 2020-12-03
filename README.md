@@ -8,7 +8,7 @@
 - [X] View All Recipes (endpoint).
 - [X] Save & Get Data from mongoDB.
 - [X] Restructure The folders & files
-- [ ] View Specific Recipe (endpoint).
+- [X] View Specific Recipe (endpoint).
 - [ ] Register&Login Accounts (endpoint(s)).
 - [ ] Rate Recipe.
 - [ ] Comment on Recipe.
